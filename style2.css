@@ -32,15 +32,12 @@
 	list-style: none;
 }
 .bloque{
-	border: 1.5px solid #F5B853;
+	border: 1.5px solid #DB000A;
 	width: 80px;
 	display:flex;
 	align-items: right;
 	width: 100%;
-
-
-
-
+	background-color:#DB000A>
 
 }
 .row > div{
